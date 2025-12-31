@@ -85,17 +85,28 @@
 
 <h1 style="font-size:3.5em; font-weight:bold;"> Contact & Social Links</h1>
 
- <p align="left"> <a href="https://linkedin.com/in/sanjida-prena-5613a5335" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://www.facebook.com/share/1DSq2nMTqt/" target="_blank"> <img src="https://skillicons.dev/icons?i=facebook" /> </a> <a href="mailto:sanjidaprena7@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p> 
- 
+<p style="margin-top:20px;">
+  <a href="https://linkedin.com/in/sanjida-prena-5613a5335" target="_blank" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" height="40px" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:sanjidaprena7@gmail.com" style="margin:0 10px;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px" height="40px" alt="Gmail" />
+  </a>
+</p>
+
  📧 **Email:** sanjidaprena7@gmail.com 
  
- 🔗 **LinkedIn:** linkedin.com/in/sanjida-prena-5613a5335 
- 
- 📘 **Facebook:** facebook.com/share/1DSq2nMTqt/
+🔗 **LinkedIn:** linkedin.com/in/sanjida-prena-5613a5335 
+
+
+
+
+
+
+
 
 ---
-
-
 <p align="center">
   <b>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=💖+Thanks+for+visiting+my+GitHub+profile!" alt="Typing SVG"/>
