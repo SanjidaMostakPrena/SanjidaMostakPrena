@@ -80,7 +80,7 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="linkedin.com/in/sanjida-prena-5613a5335" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
